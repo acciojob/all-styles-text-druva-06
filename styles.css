@@ -1,11 +1,14 @@
 
 /* Your CSS Code here. */
-p{
-	width:200px;
+.main{
 	background:purple;
 	border:5px solid;
 	border-left-color:green;
-	padding:10px;
 	color:white;
-	size:20px
+}
+.heading{
+}
+p{
+	width:"200px";
+	padding:"20px";
 }
